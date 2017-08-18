@@ -46,7 +46,7 @@ What should you do with the main topic names, is to put the name into Google, fo
 
 
 ## Links
-- [**The Amazing Derek Banas] (https://www.youtube.com/user/derekbanas/playlists)
+- [**The Amazing Derek Banas](https://www.youtube.com/user/derekbanas/playlists)
   - [Java](https://www.youtube.com/watch?v=TBWX97e1E9g&list=PLE7E8B7F4856C9B19)
   - [Object Oriented](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
 - [TutorialsPoint](https://www.tutorialspoint.com/index.htm) Where you will find everything.
