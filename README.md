@@ -52,6 +52,7 @@ What should you do with the main topic names, is to put the name into Google, fo
 - [TutorialsPoint](https://www.tutorialspoint.com/index.htm) Where you will find everything.
 - [MIT Open Course Ware: Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 - [Codecademy](https://www.codecademy.com/)
+- [Learn X in Y minutes](https://learnxinyminutes.com/)
 - Problem solving
   - [InterviewBit](https://www.interviewbit.com/)
   - [HackerRank](https://www.hackerrank.com/)
